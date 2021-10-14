@@ -3,7 +3,7 @@ samples for toast and snackbar
 
 # Example #1 - Use Plugin.Toast Libarry
 
-- [Code]()
+- [Code](https://github.com/LeoAndo/xamarin-forms-toast-snackbar-samples/tree/main/ToastSample)
 - [development memo](https://github.com/LeoAndo/xamarin-forms-training/issues/108)
 
 | ios | Android |
