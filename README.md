@@ -23,7 +23,7 @@ samples for toast and snackbar
 
 - [Code](https://github.com/LeoAndo/xamarin-forms-toast-snackbar-samples/tree/main/SnackbarSample)
 - [development memo](https://github.com/LeoAndo/xamarin-forms-toast-snackbar-samples/issues/1)
-- 
+
 | ios | android |
 |:---|:---:|
 |<img src="https://user-images.githubusercontent.com/16476224/137351322-493c9f40-1554-4785-8132-0d36cb20ec74.gif" width=320 /> |<img src="https://user-images.githubusercontent.com/16476224/137351452-9d1ac5d1-1a21-43bd-ab11-f2312523fc94.gif" width=320 />|
