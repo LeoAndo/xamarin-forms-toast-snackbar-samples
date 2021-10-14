@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ToastSample.MainPage">
+
+    <StackLayout HorizontalOptions="Center" VerticalOptions="CenterAndExpand">
+        <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+            <Label Text="Short toast"></Label>
+            <Switch x:Name="toastDuration" Toggled="Handle_Toggled"></Switch>
+            <Label Text="Long toast"></Label>
+        </StackLayout>
+        <!-- Place new controls here -->
+        <Button Text="Message"
+                Clicked="Toast1Clicked"/>
+        <Button Text="Success"
+                Clicked="Toast2Clicked" />
+        <Button Text="Warning"
+                Clicked="Toast3Clicked" />
+        <Button Text="Error"
+                Clicked="Toast4Clicked" />
+        <Button Text="Custom Toast" Clicked="Toast5Clicked" />
+        <Button Text="Multiple Toast" Clicked="Toast6Clicked" />
+    </StackLayout>
+
+</ContentPage>
