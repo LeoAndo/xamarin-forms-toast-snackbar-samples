@@ -1,6 +1,16 @@
 # Overview
 samples for toast and snackbar
 
+# development environment
+
+```
+Visual Studio Community 2019 for Mac
+Version 8.10.7 (build 17)
+```
+```
+XCode Version 12.5.1
+```
+
 # Example #1 - Use [Plugin.Toast](https://www.nuget.org/packages/Plugin.Toast)
 
 - [Code](https://github.com/LeoAndo/xamarin-forms-toast-snackbar-samples/tree/main/ToastSample)
